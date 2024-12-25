@@ -1,0 +1,14 @@
+2024-10-28 12:20:37,136 - __main__ - INFO - Successfully connected to MongoDB at mongodb://192.168.88.27:27018/foode
+2024-10-28 12:20:57,366 - __main__ - INFO - Processing item 1/11: 1 pack lamb chops (4 pieces)
+2024-10-28 12:21:04,297 - __main__ - INFO - Processing item 2/11: 1 bulb garlic
+2024-10-28 12:21:13,612 - __main__ - INFO - Processing item 3/11: 1 bunch asparagus
+2024-10-28 12:21:22,237 - __main__ - INFO - Processing item 4/11: 1 seedless cucumber
+2024-10-28 12:21:32,658 - __main__ - INFO - Processing item 5/11: 4 tomatoes
+2024-10-28 12:21:38,290 - __main__ - INFO - Processing item 6/11: 1 lemon
+2024-10-28 12:21:43,385 - __main__ - INFO - Processing item 7/11: 1 bag potatoes (5 lb)
+2024-10-28 12:22:13,404 - __main__ - ERROR - Error in API request: HTTPSConnectionPool(host='api.perplexity.ai', port=443): Read timed out. (read timeout=30)
+2024-10-28 12:22:20,037 - __main__ - INFO - Processing item 8/11: 1 pint milk
+2024-10-28 12:22:25,806 - __main__ - INFO - Processing item 9/11: 1 pack unsalted butter
+2024-10-28 12:22:29,491 - __main__ - INFO - Processing item 10/11: 1 bottle olive oil
+2024-10-28 12:22:41,777 - __main__ - INFO - Processing item 11/11: 1 jar dried herbs (e.g., rosemary, thyme, oregano)
+2024-10-28 12:22:46,248 - __main__ - INFO - Generated shopping list with prices for user: GaryTheGrillMaster

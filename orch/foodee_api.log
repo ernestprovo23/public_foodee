@@ -1,0 +1,8 @@
+2024-11-05 17:52:04,358 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2024-11-06 20:57:02,825 - Foodee.API - INFO - Application shutdown completed
+2024-11-06 21:04:29,767 - Foodee.API - INFO - Application shutdown completed
+2024-11-06 21:32:11,570 - Foodee.API - INFO - Application shutdown completed

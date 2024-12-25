@@ -1,0 +1,50 @@
+2024-11-02 06:13:13,694 - recipe_nutrition - ERROR - No meal plans found for user: TrevorClient1
+2024-11-02 06:13:13,696 - recipe_nutrition - ERROR - No meal plans found for user: TrevorClient1
+2024-11-02 07:13:05,574 - recipe_nutrition - INFO - Successfully fetched meal plans for user: TrevorClient1
+2024-11-02 07:13:05,575 - recipe_nutrition - INFO - Built prompt for meals: [{'date': '2024-11-02', 'main_dish': 'Palak Paneer', 'sides': ['Brown Rice', 'Cucumber Raita', 'Mixed Lentil Soup (Dal)']}]
+2024-11-02 07:13:35,229 - recipe_nutrition - INFO - Recipe and nutrition info generated for user: TrevorClient1
+2024-11-02 07:13:35,234 - recipe_nutrition - INFO - Recipe and nutrition information generation complete
+2024-11-02 07:25:28,155 - recipe_nutrition - INFO - Successfully fetched meal plans for user: TrevorClient1
+2024-11-02 07:25:28,156 - recipe_nutrition - INFO - Built prompt for meals: [{'date': '2024-11-02', 'main_dish': 'Chickpea and Paneer Curry (Chana Paneer Masala)', 'sides': ['Brown Basmati Rice', 'Mixed Vegetable Raita', 'Whole Wheat Roti']}, {'date': '2024-11-02', 'main_dish': 'Palak Paneer', 'sides': ['Whole Wheat Roti', 'Cucumber Raita']}, {'date': '2024-11-02', 'main_dish': 'Palak Paneer with Brown Rice', 'sides': ['Chana Salad (Chickpea Salad)', 'Cucumber Raita']}]
+2024-11-02 07:25:47,063 - recipe_nutrition - INFO - Recipe and nutrition info generated for user: TrevorClient1
+2024-11-02 07:25:47,067 - recipe_nutrition - INFO - Recipe and nutrition information generation complete
+2024-11-02 07:25:47,074 - recipe_nutrition - INFO - Successfully fetched meal plans for user: TrevorClient1
+2024-11-02 07:25:47,075 - recipe_nutrition - INFO - Built prompt for meals: [{'date': '2024-11-02', 'main_dish': 'Chickpea and Paneer Curry (Chana Paneer Masala)', 'sides': ['Brown Basmati Rice', 'Mixed Vegetable Raita', 'Whole Wheat Roti']}, {'date': '2024-11-02', 'main_dish': 'Palak Paneer', 'sides': ['Whole Wheat Roti', 'Cucumber Raita']}, {'date': '2024-11-02', 'main_dish': 'Palak Paneer with Brown Rice', 'sides': ['Chana Salad (Chickpea Salad)', 'Cucumber Raita']}]
+2024-11-02 07:26:04,600 - recipe_nutrition - INFO - Recipe and nutrition info generated for user: TrevorClient1
+2024-11-02 07:26:04,603 - recipe_nutrition - INFO - Recipe and nutrition information generation complete
+2024-11-02 07:26:04,610 - recipe_nutrition - INFO - Successfully fetched meal plans for user: TrevorClient1
+2024-11-02 07:26:04,611 - recipe_nutrition - INFO - Built prompt for meals: [{'date': '2024-11-02', 'main_dish': 'Chickpea and Paneer Curry (Chana Paneer Masala)', 'sides': ['Brown Basmati Rice', 'Mixed Vegetable Raita', 'Whole Wheat Roti']}, {'date': '2024-11-02', 'main_dish': 'Palak Paneer', 'sides': ['Whole Wheat Roti', 'Cucumber Raita']}, {'date': '2024-11-02', 'main_dish': 'Palak Paneer with Brown Rice', 'sides': ['Chana Salad (Chickpea Salad)', 'Cucumber Raita']}]
+2024-11-02 07:26:28,290 - recipe_nutrition - INFO - Recipe and nutrition info generated for user: TrevorClient1
+2024-11-02 07:26:28,294 - recipe_nutrition - INFO - Recipe and nutrition information generation complete
+2024-11-02 11:25:26,799 - recipe_nutrition - INFO - Successfully fetched meal plans for user: GaryTheGrillMaster
+2024-11-02 11:25:26,800 - recipe_nutrition - INFO - Built prompt for meals: [{'date': '2024-11-02', 'main_dish': 'Grilled Lemon Herb Chicken', 'sides': ['Roasted Sweet Potato Wedges with Rosemary', 'Grilled Asparagus with Lemon Zest', 'Mixed Green Salad with Sunflower Seeds and Balsamic Vinaigrette']}, {'date': '2024-11-02', 'main_dish': 'Grilled Lemon Herb Chicken', 'sides': ['Roasted Sweet Potatoes', 'Mixed Greens Salad with Citrus Vinaigrette', 'Grilled Asparagus']}, {'date': '2024-11-02', 'main_dish': 'Grilled Lemon Herb Chicken', 'sides': ['Roasted Sweet Potatoes', 'Garden Salad']}]
+2024-11-02 11:25:39,976 - recipe_nutrition - INFO - Recipe and nutrition info generated for user: GaryTheGrillMaster
+2024-11-02 11:25:39,980 - recipe_nutrition - INFO - Recipe and nutrition information generation complete
+2024-11-02 11:25:39,988 - recipe_nutrition - INFO - Successfully fetched meal plans for user: GaryTheGrillMaster
+2024-11-02 11:25:39,990 - recipe_nutrition - INFO - Built prompt for meals: [{'date': '2024-11-02', 'main_dish': 'Grilled Lemon Herb Chicken', 'sides': ['Roasted Sweet Potato Wedges with Rosemary', 'Grilled Asparagus with Lemon Zest', 'Mixed Green Salad with Sunflower Seeds and Balsamic Vinaigrette']}, {'date': '2024-11-02', 'main_dish': 'Grilled Lemon Herb Chicken', 'sides': ['Roasted Sweet Potatoes', 'Mixed Greens Salad with Citrus Vinaigrette', 'Grilled Asparagus']}, {'date': '2024-11-02', 'main_dish': 'Grilled Lemon Herb Chicken', 'sides': ['Roasted Sweet Potatoes', 'Garden Salad']}]
+2024-11-02 11:25:55,322 - recipe_nutrition - INFO - Recipe and nutrition info generated for user: GaryTheGrillMaster
+2024-11-02 11:25:55,326 - recipe_nutrition - INFO - Recipe and nutrition information generation complete
+2024-11-02 11:25:55,334 - recipe_nutrition - INFO - Successfully fetched meal plans for user: GaryTheGrillMaster
+2024-11-02 11:25:55,335 - recipe_nutrition - INFO - Built prompt for meals: [{'date': '2024-11-02', 'main_dish': 'Grilled Lemon Herb Chicken', 'sides': ['Roasted Sweet Potato Wedges with Rosemary', 'Grilled Asparagus with Lemon Zest', 'Mixed Green Salad with Sunflower Seeds and Balsamic Vinaigrette']}, {'date': '2024-11-02', 'main_dish': 'Grilled Lemon Herb Chicken', 'sides': ['Roasted Sweet Potatoes', 'Mixed Greens Salad with Citrus Vinaigrette', 'Grilled Asparagus']}, {'date': '2024-11-02', 'main_dish': 'Grilled Lemon Herb Chicken', 'sides': ['Roasted Sweet Potatoes', 'Garden Salad']}]
+2024-11-02 11:26:09,397 - recipe_nutrition - INFO - Recipe and nutrition info generated for user: GaryTheGrillMaster
+2024-11-02 11:26:09,405 - recipe_nutrition - INFO - Recipe and nutrition information generation complete
+2024-11-02 22:46:08,806 - recipe_nutrition - INFO - Successfully fetched meal plans for user: admin
+2024-11-02 22:46:08,826 - recipe_nutrition - INFO - Built prompt for meals: [{'date': '2024-11-02', 'main_dish': 'Braised Balsamic Short Ribs with Thyme', 'sides': ['Creamy Polenta (using gluten-free cornmeal)', 'Honey-Glazed Carrots']}, {'date': '2024-11-02', 'main_dish': 'Roasted Garlic and Herb Pork Tenderloin', 'sides': ['Quinoa Salad with Cucumber and Dill', 'Steamed Broccoli with Lemon Zest']}, {'date': '2024-11-02', 'main_dish': 'Pan-Seared Scallops with Lemon Basil Butter', 'sides': ['Roasted Garlic Mashed Potatoes', 'Steamed Asparagus with Lemon Zest']}]
+2024-11-02 22:46:20,829 - recipe_nutrition - INFO - Recipe and nutrition info generated for user: admin
+2024-11-02 22:46:20,847 - recipe_nutrition - INFO - Recipe and nutrition information generation complete
+2024-11-02 22:46:20,854 - recipe_nutrition - INFO - Successfully fetched meal plans for user: admin
+2024-11-02 22:46:20,854 - recipe_nutrition - INFO - Built prompt for meals: [{'date': '2024-11-02', 'main_dish': 'Braised Balsamic Short Ribs with Thyme', 'sides': ['Creamy Polenta (using gluten-free cornmeal)', 'Honey-Glazed Carrots']}, {'date': '2024-11-02', 'main_dish': 'Roasted Garlic and Herb Pork Tenderloin', 'sides': ['Quinoa Salad with Cucumber and Dill', 'Steamed Broccoli with Lemon Zest']}, {'date': '2024-11-02', 'main_dish': 'Pan-Seared Scallops with Lemon Basil Butter', 'sides': ['Roasted Garlic Mashed Potatoes', 'Steamed Asparagus with Lemon Zest']}]
+2024-11-02 22:46:33,197 - recipe_nutrition - INFO - Recipe and nutrition info generated for user: admin
+2024-11-02 22:46:33,201 - recipe_nutrition - INFO - Recipe and nutrition information generation complete
+2024-11-02 22:46:33,209 - recipe_nutrition - INFO - Successfully fetched meal plans for user: admin
+2024-11-02 22:46:33,210 - recipe_nutrition - INFO - Built prompt for meals: [{'date': '2024-11-02', 'main_dish': 'Braised Balsamic Short Ribs with Thyme', 'sides': ['Creamy Polenta (using gluten-free cornmeal)', 'Honey-Glazed Carrots']}, {'date': '2024-11-02', 'main_dish': 'Roasted Garlic and Herb Pork Tenderloin', 'sides': ['Quinoa Salad with Cucumber and Dill', 'Steamed Broccoli with Lemon Zest']}, {'date': '2024-11-02', 'main_dish': 'Pan-Seared Scallops with Lemon Basil Butter', 'sides': ['Roasted Garlic Mashed Potatoes', 'Steamed Asparagus with Lemon Zest']}]
+2024-11-02 22:46:45,112 - recipe_nutrition - INFO - Recipe and nutrition info generated for user: admin
+2024-11-02 22:46:45,135 - recipe_nutrition - INFO - Recipe and nutrition information generation complete
+2024-11-05 06:48:52,834 - recipe_nutrition - INFO - Successfully fetched meal plans for user: TrevorClient1
+2024-11-05 06:48:52,836 - recipe_nutrition - INFO - Built prompt for meals: [{'date': '2024-11-05', 'main_dish': 'Palak Paneer and Lentil Stew', 'sides': ['Brown Rice Pilaf with Toasted Cumin Seeds', 'Cucumber Raita with Fresh Mint']}, {'date': '2024-11-05', 'main_dish': 'Punjabi Chole with Mixed Bean and Paneer Patties', 'sides': ['Brown Basmati Rice Pilaf with Aromatic Spices', 'Cucumber and Mint Raita']}]
+2024-11-05 06:49:16,894 - recipe_nutrition - INFO - Recipe and nutrition info generated for user: TrevorClient1
+2024-11-05 06:49:16,898 - recipe_nutrition - INFO - Recipe and nutrition information generation complete
+2024-11-05 06:49:16,927 - recipe_nutrition - INFO - Successfully fetched meal plans for user: TrevorClient1
+2024-11-05 06:49:16,928 - recipe_nutrition - INFO - Built prompt for meals: [{'date': '2024-11-05', 'main_dish': 'Palak Paneer and Lentil Stew', 'sides': ['Brown Rice Pilaf with Toasted Cumin Seeds', 'Cucumber Raita with Fresh Mint']}, {'date': '2024-11-05', 'main_dish': 'Punjabi Chole with Mixed Bean and Paneer Patties', 'sides': ['Brown Basmati Rice Pilaf with Aromatic Spices', 'Cucumber and Mint Raita']}]
+2024-11-05 06:49:37,980 - recipe_nutrition - INFO - Recipe and nutrition info generated for user: TrevorClient1
+2024-11-05 06:49:37,982 - recipe_nutrition - INFO - Recipe and nutrition information generation complete
